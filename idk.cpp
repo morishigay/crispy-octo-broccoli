@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
-{
+int main(){
 int pilih;
     int input,panjang,lebar,sisi,alas,tinggi,r;
 	const float phi = 3.14;
@@ -44,3 +43,4 @@ case 6 :
     }
     return 0;
 } 
+
